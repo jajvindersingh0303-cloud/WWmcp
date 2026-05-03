@@ -1,5 +1,7 @@
 # MCP Servers for Non-Western APIs
 
+**English** | [Русский](README.ru.md)
+
 > **114 servers · 910+ tools · 15+ countries · npm @theyahia**
 >
 > The largest open-source collection of MCP servers for CIS, MENA, Africa, LATAM, and Southeast Asia.
@@ -13,7 +15,7 @@
 
 ## Quick Start
 
-### 1. Добавь в Claude Desktop config
+### 1. Add to your Claude Desktop config
 
 `claude_desktop_config.json`:
 
@@ -39,15 +41,15 @@
 }
 ```
 
-### 2. Скажи AI
+### 2. Ask the AI
 
-> «Проверь остатки товара TS-100 в МойСклад, рассчитай доставку СДЭК до Новосибирска, и создай ссылку на оплату через ЮКассу»
+> "Check stock for SKU TS-100 in MoySklad, calculate CDEK shipping to Novosibirsk, and generate a YooKassa payment link."
 
-### 3. AI сделает всё сам
+### 3. The AI handles the rest
 
-МойСклад → остатки и цена → СДЭК → тарифы доставки → ЮKassa → ссылка на оплату. Один промпт.
+MoySklad → stock & pricing → CDEK → shipping rates → YooKassa → payment link. One prompt, no manual API work.
 
-> 📦 **Готовые сценарии использования:** [@theyahia/mcp-skills](https://github.com/theYahia/mcp-skills) — 40+ скиллов для e-commerce, HR, маркетинга, финансов
+> 📦 **Ready-made workflows:** [@theyahia/mcp-skills](https://github.com/theYahia/mcp-skills) — 40+ skills for e-commerce, HR, marketing, and finance
 
 ---
 
