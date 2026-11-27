@@ -26,8 +26,8 @@
   },
   "dependencies": {
     "@theyahia/mcp-core": "workspace:*",
-    "@modelcontextprotocol/sdk": "^1.12.0",
-    "zod": "^4.4.3"
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
